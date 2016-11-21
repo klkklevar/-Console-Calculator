@@ -38,12 +38,19 @@ namespace Console_Calculator
                     total = num1 - num2;
                     Console.WriteLine("Your answer is " + total);
                 }
-                else
+                else if (oper == '*')
                 {
-                    Console.WriteLine("Invalid Operator");
-                }
-            }
+                    total = num1 * num2;
+                    Console.WriteLine("Your answer is " + total);
 
+                }
+                else if (oper == '/')
+                {
+                    total = num1 / num2;
+                    Console.WriteLine("Your answer is " + total);
+                }
+
+            }
         }
     }
 }

@@ -7,6 +7,7 @@ I create this demo project into visual studio 2015 with C# code (console aplicat
 A sample readme for just a simple calculator with operators +, -, * and /.
 
 ## License & copyright
-Khalid L Klevar
+
+KlkKlevar
 
 

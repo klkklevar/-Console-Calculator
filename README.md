@@ -8,6 +8,6 @@ A sample readme for just a simple calculator with operators +, -, * and /.
 
 ## License & copyright
 
-KlkKlevar
+Khalid Klevar
 
 
